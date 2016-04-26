@@ -203,8 +203,11 @@ h2 {
 .six { margin: 100px 0; }
 
 
+.block { margin-top: 25px; }
+
+
 /* Small devices (tablets, 768px and up) */
-@media (min-width: @screen-sm-min) { 
+@media (min-width: @screen-sm-min) {
 
 		.textarea i {
 			font-size: 15em;
@@ -220,4 +223,3 @@ h2 {
 
 
  }
-
