@@ -205,6 +205,7 @@ h2 {
 
 .block { margin: 25px 0; }
 
+.hint { text-align: center;}
 
 /* Small devices (tablets, 768px and up) */
 @media (min-width: @screen-sm-min) {
